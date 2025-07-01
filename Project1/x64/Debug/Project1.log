@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+  main.cpp
+C:\Users\cemer\Desktop\Yeni klasör\VSOpenGL\Projects\Project1\Project1\src\main.cpp(24,35): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\cemer\Desktop\Yeni klasör\VSOpenGL\Projects\Project1\Project1\src\main.cpp(25,35): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\cemer\Desktop\Yeni klasör\VSOpenGL\Projects\Project1\Project1\src\main.cpp(26,35): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\cemer\Desktop\Yeni klasör\VSOpenGL\Projects\Project1\Project1\src\main.cpp(27,35): warning C4305: '-=': truncation from 'double' to 'float'
+  shaderprogram.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Project1.vcxproj -> C:\Users\cemer\Desktop\Yeni klasör\VSOpenGL\bin\openGLTrial.exe
